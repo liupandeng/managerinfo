@@ -1,0 +1,3 @@
+# managerinfo
+
+加油！
